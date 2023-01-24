@@ -1,0 +1,47 @@
+@import url('https://fonts.cdnfonts.com/css/graphik');
+
+.Navbar {
+  
+}
+
+.nav-item {
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.nav-link {
+width: 47px;
+height: 24px;
+font-family: 'Graphik', sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+letter-spacing: 0.2px;
+color: #FFFFFF;
+}
+
+.btn{
+box-sizing: border-box;
+padding: 20px 36px;
+width: 139px;
+height: 52px;
+border: 1px solid #FFFFFF;
+font-family: 'Graphik';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+display: flex;
+align-items: center;
+justify-content: center;
+line-height: 24px;
+text-align: center;
+letter-spacing: 0.2px;
+color: #FFFFFF;
+background: #181818;
+}
+
+.nav-logo {
+width: 186px;
+height: 58px;  
+}
