@@ -4,6 +4,8 @@ import Feature from "./components/Feature/Feature";
 import Content from "./components/Content/Content";
 import Gallery from "./components/Gallery/Gallery";
 import Partner from "./components/Partner/Partner";
+import Testimonial from "./components/Testimonial/Testimonial";
+import Newsletter from "./components/Newsletter/Newsletter";
 import './App.css';
 
 function App() {
@@ -16,6 +18,8 @@ function App() {
       <Content />
       <Gallery />
       <Partner />
+      <Testimonial />
+      <Newsletter />
     </div>
   )
 }

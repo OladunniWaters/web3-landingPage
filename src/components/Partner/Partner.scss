@@ -112,23 +112,25 @@ letter-spacing: 0.2px;
 color: #FFFFFF;  
 }
 @media screen and (min-width: 481px) and (max-width: 768px) {
-width: 203px;
-height: 62px;
+width: 571px;
+height: 60px;
 font-family: 'Graphik';
 font-style: normal;
 font-weight: 400;
-font-size: 52px;
-line-height: 62px;
+font-size: 20px;
+line-height: 30px;
+text-align: center;
 letter-spacing: 0.2px;
-color: #FFFFFF;  
+color: #FFFFFF;
 }
-width: 203px;
-height: 62px;
+width: 571px;
+height: 60px;
 font-family: 'Graphik';
 font-style: normal;
 font-weight: 400;
-font-size: 52px;
-line-height: 62px;
+font-size: 20px;
+line-height: 30px;
+text-align: center;
 letter-spacing: 0.2px;
 color: #FFFFFF;
 }
@@ -141,7 +143,9 @@ align-items: center;
 padding: 0px;
 gap: 50px;
 width: 286px;
-height: 171.55px;  
+height: 171.55px; 
+margin-top: 25px;
+margin-bottom: 30px;
 }
 @media screen and (min-width: 481px) and (max-width: 768px) {
 display: flex;
@@ -151,6 +155,8 @@ padding: 0px;
 gap: 74px;
 width: 831.97px;
 height: 70.55px;  
+margin-top: 50px;
+margin-bottom: 60px;
 }
 display: flex;
 flex-direction: row;
@@ -159,6 +165,8 @@ padding: 0px;
 gap: 74px;
 width: 831.97px;
 height: 70.55px;
+margin-top: 50px;
+margin-bottom: 60px;
 }
 
 .partner-logo1 {

@@ -7,7 +7,7 @@ import galleryImage4 from "../../assets/Rectangle 1 (3).png";
 import galleryImage5 from "../../assets/Rectangle 1 (3).png";
 import galleryImage6 from "../../assets/Rectangle 1 (3).png";
 import galleryImage7 from "../../assets/Rectangle 1 (3).png";
-
+import galleryImage8 from "../../assets/Rectangle 1 (3).png";
 
 function Gallery() {
 
@@ -20,13 +20,37 @@ function Gallery() {
           </div>
           
           <div className="gallery-col2">
-             <img className="gallery-image" src={galleryImage1} alt="gallery"/>
-             <img className="gallery-image" src={galleryImage2} alt="gallery"/>
-             <img className="gallery-image" src={galleryImage3} alt="gallery"/>
-             <img className="gallery-image" src={galleryImage4} alt="gallery"/>
-             <img className="gallery-image" src={galleryImage5} alt="gallery"/>
-             <img className="gallery-image" src={galleryImage6} alt="gallery"/>
-             <img className="gallery-image" src={galleryImage7} alt="gallery"/>
+            <div>
+               <img className="gallery-image" src={galleryImage1} alt="gallery"/>
+             </div>
+             
+             <div>
+               <img className="gallery-image" src={galleryImage2} alt="gallery"/>
+              </div>
+              
+              <div>
+                <img className="gallery-image" src={galleryImage3} alt="gallery"/>
+              </div>
+              
+              <div>
+               <img className="gallery-image" src={galleryImage4} alt="gallery"/>
+               </div>
+               
+               <div>
+                 <img className="gallery-image" src={galleryImage5} alt="gallery"/>
+               </div>
+               
+               <div>
+                <img className="gallery-image" src={galleryImage6} alt="gallery"/>
+                </div>
+                
+                <div>
+                 <img className="gallery-image" src={galleryImage7} alt="gallery"/>
+                 </div>
+                 
+                <div>
+                 <img className="gallery-image" src={galleryImage8} alt="gallery"/>
+                 </div>
           </div>
           <button className="gallery-btn">See more</button>
        </div>   
