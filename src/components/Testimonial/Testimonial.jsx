@@ -18,8 +18,10 @@ function Testimonial() {
              <div className="testimonial-card">
                 <div className="testimonial-item">
                   <img src={testimonialImage1} alt="testimonial-image" className="testimonial-item-image"/>
-                  <p className="testimonial-item-p">Claire Bell</p>
-                  <p className="testimonial-item-p">Designer</p>
+                  <div className="testimonial-item-p-cont">
+                      <p className="testimonial-item-p1">Claire Bell</p>
+                      <p className="testimonial-item-p2">Designer</p>
+                  </div>    
                 </div>
                 <div>
                    <p className="testimonial-p">Slate helps you see how many more days you need to work to reach your financial goal for the month and year. Slate helps you see how many more days you need to work to reach your financial goal for the month and year.your financial goal for the month and year.
@@ -30,8 +32,10 @@ function Testimonial() {
              <div className="testimonial-card">
                 <div className="testimonial-item">
                   <img src={testimonialImage2} alt="testimonial-image" className="testimonial-item-image"/>
-                  <p className="testimonial-item-p">Francisco Lane</p>
-                   <p className="testimonial-item-p">Designer</p>                  
+                  <div className="testimonial-item-p-cont">
+                      <p className="testimonial-item-p1">Claire Bell</p>
+                      <p className="testimonial-item-p2">Designer</p>
+                  </div>                 
                 </div>
                 <div>
                    <p className="testimonial-p">Slate helps you see how many more days you need to work to reach your financial goal for the month and year. Slate helps you see how many more days you need to work to reach your financial goal for the month and year.your financial goal for the month and year.
@@ -42,8 +46,10 @@ function Testimonial() {
              <div className="testimonial-card">
                 <div className="testimonial-item">
                   <img src={testimonialImage3} alt="testimonial-image" className="testimonial-item-image"/>
-                  <p className="testimonial-item-p">Ralph Fisher</p>
-                  <p className="testimonial-item-p">Designer</p>
+                  <div className="testimonial-item-p-cont">
+                      <p className="testimonial-item-p1">Claire Bell</p>
+                      <p className="testimonial-item-p2">Designer</p>
+                  </div> 
                 </div>
                 <div>
                    <p className="testimonial-p">Slate helps you see how many more days you need to work to reach your financial goal for the month and year. Slate helps you see how many more days you need to work to reach your financial goal for the month and year.your financial goal for the month and year.
@@ -54,8 +60,10 @@ function Testimonial() {
              <div className="testimonial-card">
                 <div className="testimonial-item">
                   <img src={testimonialImage4} alt="testimonial-image" className="testimonial-item-image"/>
-                  <p className="testimonial-item-p">Jorge Murphy</p>
-                  <p className="testimonial-item-p">Designer</p>
+                  <div className="testimonial-item-p-cont">
+                      <p className="testimonial-item-p1">Claire Bell</p>
+                      <p className="testimonial-item-p2">Designer</p>
+                  </div> 
                 </div>
                 <div>
                    <p className="testimonial-p">Slate helps you see how many more days you need to work to reach your financial goal for the month and year. Slate helps you see how many more days you need to work to reach your financial goal for the month and year.your financial goal for the month and year.
