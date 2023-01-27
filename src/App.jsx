@@ -6,6 +6,7 @@ import Gallery from "./components/Gallery/Gallery";
 import Partner from "./components/Partner/Partner";
 import Testimonial from "./components/Testimonial/Testimonial";
 import Newsletter from "./components/Newsletter/Newsletter";
+import Footer from "./components/Footer/Footer";
 import './App.css';
 
 function App() {
@@ -20,6 +21,7 @@ function App() {
       <Partner />
       <Testimonial />
       <Newsletter />
+      <Footer />
     </div>
   )
 }
